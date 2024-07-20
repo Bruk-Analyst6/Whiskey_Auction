@@ -36,8 +36,15 @@ The chart has a title: â€œSum of winning bid mean, Max and Min by Auction nameâ€
   auction performance.
 
 *The sum of the maximum winning bid for each Acution is represented by a light Blue colour.*
-*The sum of the Mean winning bid for each Auction is represented by dark Blue light colour.*
-*The sum of the Minimum winning bid for each Auction is represented by Orange colour.*
+*The sum of the mean winning bid for each auction is represented by dark blue light.*
+*The sum of the minimum winning bid for each auction is represented by orange.*
+
+
+[The fields Sum of winning_bid_Max, Mean, and Min.pdf](https://github.com/user-attachments/files/16321066/The.fields.Sum.of.winning_bid_Max.Mean.and.Min.pdf)
+
+
+
+
 
 ### Results/Findings
 - Sotheby's Whisky Auctions stands out significantly, with the highest sums for maximum, mean, 
